@@ -1,6 +1,8 @@
 <p align="center" width="100%">
-<img src=".\pictures\game_of_life.gif" alt="game_of_life">
+<img src=".\pictures\fire.png" alt="fire">
 </p>
+
+The author of the image is Maciek (@voxelhagrid), available here: https://lospec.com/voxelhagrid
 
 # Fire Simulation
 
@@ -25,20 +27,10 @@ In this project, the forest is represented by a matrix of dimension N, and conta
 
 Here are a few possible video examples, all listed in the [example file](example_simulation.py) :
 
-+ Example 1:
++ [Example 1](./movies/example_fire_1.mp4)
 
-https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_1.mp4
++ [Example 2](./movies/example_fire_2.mp4)
 
-+ Example 2:
++ [Example 3](./movies/example_fire_3.mp4)
 
-https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_2.mp4
-
-+ Example 3:
-
-https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_3.mp4
-
-+ Example 4:
-
-https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_4.mp4
-
-<video controls autoplay src='.\movies\example_fire_1.mp4'></video>
++ [Example 4](./movies/example_fire_4.mp4)
