@@ -27,10 +27,18 @@ In this project, the forest is represented by a matrix of dimension N, and conta
 
 Here are a few possible video examples, all listed in the [example file](example_simulation.py) :
 
-+ [Example 1](./movies/example_fire_1.mp4)
++ Example 1:
 
-+ [Example 2](./movies/example_fire_2.mp4)
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_1.mp4
 
-+ [Example 3](./movies/example_fire_3.mp4)
++ Example 2:
 
-+ [Example 4](./movies/example_fire_4.mp4)
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_2.mp4
+
++ Example 3:
+
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_3.mp4
+
++ Example 4:
+
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_4.mp4
