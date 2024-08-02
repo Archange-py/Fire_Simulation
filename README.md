@@ -27,16 +27,18 @@ Here are a few possible video examples, all listed in the [example file](example
 
 + Example 1:
 
-<video controls autoplay src='.\movies\example_fire_1.mp4'></video>
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_1.mp4
 
 + Example 2:
 
-<video controls autoplay src='.\movies\example_fire_2.mp4'></video>
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_2.mp4
 
 + Example 3:
 
-<video controls autoplay src='.\movies\example_fire_3.mp4'></video>
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_3.mp4
 
 + Example 4:
 
-<video controls autoplay src='.\movies\example_fire_4.mp4'></video>
+https://github.com/Archange-py/Fire_Simulation/blob/main/movies/example_fire_4.mp4
+
+<video controls autoplay src='.\movies\example_fire_1.mp4'></video>
